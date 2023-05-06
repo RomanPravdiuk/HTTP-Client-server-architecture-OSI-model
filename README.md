@@ -1,4 +1,3 @@
-# HTTP-Client-server-architecture-OSI-model
 # HTTP, Client server architecture, OSI-model
 
 #### HTTP:
